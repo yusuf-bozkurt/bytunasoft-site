@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bytunasoft.com/sitemap.xml
